@@ -1,3 +1,5 @@
+#!/use/bin/env python3
+
 import sys
 
 def parse_arguments():
